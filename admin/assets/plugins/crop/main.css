@@ -1,0 +1,39 @@
+/*.bheader {
+    background-color: #DDDDDD;
+    border-radius: 10px 10px 0 0;
+    padding: 10px 0;
+    text-align: center;
+}*/
+.bbody {
+    color: #000;
+    overflow: hidden;
+    padding-bottom: 20px;
+    text-align: center;
+
+    background: -moz-linear-gradient(#ffffff, #f2f2f2);
+    background: -ms-linear-gradient(#ffffff, #f2f2f2);
+    background: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #ffffff), color-stop(100%, #f2f2f2));
+    background: -webkit-linear-gradient(#ffffff, #f2f2f2);
+    background: -o-linear-gradient(#ffffff, #f2f2f2);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ffffff', endColorstr='#f2f2f2');
+    -ms-filter: "progid:DXImageTransform.Microsoft.gradient(startColorstr='#ffffff', endColorstr='#f2f2f2')";
+    background: linear-gradient(#ffffff, #f2f2f2);
+}
+.bbody h2, .info, .error, .newerror {
+    margin: 10px 0;
+}
+.step2, .error, .newerror {
+    display: none;
+}
+.error, .newerror {
+    font-size: 15px;
+    font-weight: bold;
+    color: red;
+}
+.info {
+    font-size: 14px;
+}
+
+.jcrop-holder {
+    display: inline-block;
+}

@@ -1,0 +1,123 @@
+--- 
+files: 
+  certificate: 
+    regencyqtr_com_cb279_61c5f_1567403504_b6c0b8c91d741405e774bc5c8c3f802b: 
+      created: '1559630996'
+      domains: 
+        - cpanel.regencyqtr.com
+        - mail.regencyqtr.com
+        - mail.regencyqtr.com.cp-ht-3.bigrockservers.com
+        - regencyqtr.com
+        - regencyqtr.com.cp-ht-3.bigrockservers.com
+        - webdisk.regencyqtr.com
+        - webmail.regencyqtr.com
+        - www.regencyqtr.com
+        - www.regencyqtr.com.cp-ht-3.bigrockservers.com
+      friendly_name: Cert for “regencyqtr.com”
+      id: regencyqtr_com_cb279_61c5f_1567403504_b6c0b8c91d741405e774bc5c8c3f802b
+      is_self_signed: 0
+      issuer.commonName: Let's Encrypt Authority X3
+      issuer.organizationName: Let's Encrypt
+      modulus: cb279635dbbfdd3c4b4915deb2fa85007180b72c8831f1da400b31fab0c664a762497d0aff3452693878c7e7f7e030a104cfa8c45ebdba2e64263b5fd214bb45012439d15f39956ec809b63989c8662712074c0c415e550d63788722159eba4019bc6b542b2d03166c563531bb5ec76cbe0c11b047e7ec68454be2a221d568e4cf55750e32fc16b4a04f93c3c3fbcae10793910337384b8f45ee60999ced4fa15ea19cb7b1705d545dc3d45a84a9afa72e81657f0ad58b00692d85fde0de78b1005a4d8685105c0a2751fc9f6066c53d1f3947e79210aab80f441b7a2a69af682030f80083c6ea93dc0be4ec2f91892f4065d78f9e30741dc0846cdc25061c5f
+      modulus_length: 2048
+      not_after: '1567403504'
+      not_before: '1559627504'
+      signature_algorithm: sha256WithRSAEncryption
+      subject.commonName: regencyqtr.com
+      validation_type: dv
+    regencyqtr_com_e1b73_ed4ed_1572760545_52badab502ca6f87b474b6ca6d1807b5: 
+      created: '1564988075'
+      domains: 
+        - cpanel.regencyqtr.com
+        - mail.regencyqtr.com
+        - mail.regencyqtr.com.cp-ht-3.bigrockservers.com
+        - regencyqtr.com
+        - regencyqtr.com.cp-ht-3.bigrockservers.com
+        - webdisk.regencyqtr.com
+        - webmail.regencyqtr.com
+        - www.regencyqtr.com
+        - www.regencyqtr.com.cp-ht-3.bigrockservers.com
+      friendly_name: Cert for “regencyqtr.com” 1564988075.0
+      id: regencyqtr_com_e1b73_ed4ed_1572760545_52badab502ca6f87b474b6ca6d1807b5
+      is_self_signed: 0
+      issuer.commonName: Let's Encrypt Authority X3
+      issuer.organizationName: Let's Encrypt
+      modulus: e1b73b3113eb6c3a6b549990ecab97331b0b5badcb41484fd1a236151147d3b7320acbe1e3b23bd70bea175fc382b9188af702987b2d85b3d23a01247316478ddd7f2193f1d6d7db51472329071d96a896e9d7e0ca014f73ceeb62a3c4ecfd54fdc2ba802c200b9456b5f75f30011e69fd27bc9e39017eaf339d1adbe0e30b77e868212151c0c5e1a741a2c793ffa09e6268761cb08c0d5f2fc0085b365d8deb9049d5a45ba5d8997f640e515a9b4a899ad4095de46a571377b11792fbff5b7293cdfd5dc5f9b7f873ad889dc5b7dd8c55872418149691ed3ed03caa0e618b45f8a8ad59ea68b15056422937988eeb055add4c6c43f3643693e5f0634dced4ed
+      modulus_length: 2048
+      not_after: '1572760545'
+      not_before: '1564984545'
+      signature_algorithm: sha256WithRSAEncryption
+      subject.commonName: regencyqtr.com
+      validation_type: dv
+    regencyqtr_com_ef783_2e2c7_1578101304_bef2641be4ee3952b6dbe794690512d5: 
+      created: '1570328845'
+      domains: 
+        - cpanel.regencyqtr.com
+        - mail.regencyqtr.com
+        - mail.regencyqtr.com.cp-ht-3.bigrockservers.com
+        - regencyqtr.com
+        - regencyqtr.com.cp-ht-3.bigrockservers.com
+        - webdisk.regencyqtr.com
+        - webmail.regencyqtr.com
+        - www.regencyqtr.com
+        - www.regencyqtr.com.cp-ht-3.bigrockservers.com
+      friendly_name: Cert for “regencyqtr.com” 1570328845.0
+      id: regencyqtr_com_ef783_2e2c7_1578101304_bef2641be4ee3952b6dbe794690512d5
+      is_self_signed: 0
+      issuer.commonName: Let's Encrypt Authority X3
+      issuer.organizationName: Let's Encrypt
+      modulus: ef78312d4f07cc0ebb663209b8e89cd904ae4e0242c75d8f57e6b844d970c16def1ecc82a66dd382b70dabfe5459452b27194e81a5e330e8fa5379fa97364323bcbbea8e97715829b56b700ab5829de8ad4711f7002fd28054ef83341c47f9de9d111375fa1636416a5d217fc44c6298f294d5706304658734583ccca02d67d67728ffff2ea1b863a28e842d8184077ebf375809f1a9e066710a8ae218ae737bcdaa0cc56e10a970c2dd4a5d363bad966410124daf551f5d931a918eea12c2cd2d967c2e6f5d9656939e0abf4d5a79da2de62b538da114da67220a91c700e6a7568f48b0c57a98b3882aed0a86aee4a097552e6aa21956a373c97060f792e2c7
+      modulus_length: 2048
+      not_after: '1578101304'
+      not_before: '1570325304'
+      signature_algorithm: sha256WithRSAEncryption
+      subject.commonName: regencyqtr.com
+      validation_type: dv
+  key: 
+    cb279_61c5f_7f0b08a2e89b04102c730a7b60b14a9b: 
+      created: '1559630996'
+      friendly_name: Key for “regencyqtr.com” 1559630996.0
+      id: cb279_61c5f_7f0b08a2e89b04102c730a7b60b14a9b
+      modulus: cb279635dbbfdd3c4b4915deb2fa85007180b72c8831f1da400b31fab0c664a762497d0aff3452693878c7e7f7e030a104cfa8c45ebdba2e64263b5fd214bb45012439d15f39956ec809b63989c8662712074c0c415e550d63788722159eba4019bc6b542b2d03166c563531bb5ec76cbe0c11b047e7ec68454be2a221d568e4cf55750e32fc16b4a04f93c3c3fbcae10793910337384b8f45ee60999ced4fa15ea19cb7b1705d545dc3d45a84a9afa72e81657f0ad58b00692d85fde0de78b1005a4d8685105c0a2751fc9f6066c53d1f3947e79210aab80f441b7a2a69af682030f80083c6ea93dc0be4ec2f91892f4065d78f9e30741dc0846cdc25061c5f
+      modulus_length: 2048
+    e1b73_ed4ed_ba766e6c508470adb8639f13598186c5: 
+      created: '1564988075'
+      friendly_name: Key for “regencyqtr.com” 1564988075.0
+      id: e1b73_ed4ed_ba766e6c508470adb8639f13598186c5
+      modulus: e1b73b3113eb6c3a6b549990ecab97331b0b5badcb41484fd1a236151147d3b7320acbe1e3b23bd70bea175fc382b9188af702987b2d85b3d23a01247316478ddd7f2193f1d6d7db51472329071d96a896e9d7e0ca014f73ceeb62a3c4ecfd54fdc2ba802c200b9456b5f75f30011e69fd27bc9e39017eaf339d1adbe0e30b77e868212151c0c5e1a741a2c793ffa09e6268761cb08c0d5f2fc0085b365d8deb9049d5a45ba5d8997f640e515a9b4a899ad4095de46a571377b11792fbff5b7293cdfd5dc5f9b7f873ad889dc5b7dd8c55872418149691ed3ed03caa0e618b45f8a8ad59ea68b15056422937988eeb055add4c6c43f3643693e5f0634dced4ed
+      modulus_length: 2048
+    ef783_2e2c7_d8a2b5dddce419cfc181caf089b0abe3: 
+      created: '1570328845'
+      friendly_name: Key for “regencyqtr.com”
+      id: ef783_2e2c7_d8a2b5dddce419cfc181caf089b0abe3
+      modulus: ef78312d4f07cc0ebb663209b8e89cd904ae4e0242c75d8f57e6b844d970c16def1ecc82a66dd382b70dabfe5459452b27194e81a5e330e8fa5379fa97364323bcbbea8e97715829b56b700ab5829de8ad4711f7002fd28054ef83341c47f9de9d111375fa1636416a5d217fc44c6298f294d5706304658734583ccca02d67d67728ffff2ea1b863a28e842d8184077ebf375809f1a9e066710a8ae218ae737bcdaa0cc56e10a970c2dd4a5d363bad966410124daf551f5d931a918eea12c2cd2d967c2e6f5d9656939e0abf4d5a79da2de62b538da114da67220a91c700e6a7568f48b0c57a98b3882aed0a86aee4a097552e6aa21956a373c97060f792e2c7
+      modulus_length: 2048
+indexes: 
+  certificate: 
+    modulus: 
+      cb279635dbbfdd3c4b4915deb2fa85007180b72c8831f1da400b31fab0c664a762497d0aff3452693878c7e7f7e030a104cfa8c45ebdba2e64263b5fd214bb45012439d15f39956ec809b63989c8662712074c0c415e550d63788722159eba4019bc6b542b2d03166c563531bb5ec76cbe0c11b047e7ec68454be2a221d568e4cf55750e32fc16b4a04f93c3c3fbcae10793910337384b8f45ee60999ced4fa15ea19cb7b1705d545dc3d45a84a9afa72e81657f0ad58b00692d85fde0de78b1005a4d8685105c0a2751fc9f6066c53d1f3947e79210aab80f441b7a2a69af682030f80083c6ea93dc0be4ec2f91892f4065d78f9e30741dc0846cdc25061c5f: 
+        regencyqtr_com_cb279_61c5f_1567403504_b6c0b8c91d741405e774bc5c8c3f802b: ~
+      e1b73b3113eb6c3a6b549990ecab97331b0b5badcb41484fd1a236151147d3b7320acbe1e3b23bd70bea175fc382b9188af702987b2d85b3d23a01247316478ddd7f2193f1d6d7db51472329071d96a896e9d7e0ca014f73ceeb62a3c4ecfd54fdc2ba802c200b9456b5f75f30011e69fd27bc9e39017eaf339d1adbe0e30b77e868212151c0c5e1a741a2c793ffa09e6268761cb08c0d5f2fc0085b365d8deb9049d5a45ba5d8997f640e515a9b4a899ad4095de46a571377b11792fbff5b7293cdfd5dc5f9b7f873ad889dc5b7dd8c55872418149691ed3ed03caa0e618b45f8a8ad59ea68b15056422937988eeb055add4c6c43f3643693e5f0634dced4ed: 
+        regencyqtr_com_e1b73_ed4ed_1572760545_52badab502ca6f87b474b6ca6d1807b5: ~
+      ef78312d4f07cc0ebb663209b8e89cd904ae4e0242c75d8f57e6b844d970c16def1ecc82a66dd382b70dabfe5459452b27194e81a5e330e8fa5379fa97364323bcbbea8e97715829b56b700ab5829de8ad4711f7002fd28054ef83341c47f9de9d111375fa1636416a5d217fc44c6298f294d5706304658734583ccca02d67d67728ffff2ea1b863a28e842d8184077ebf375809f1a9e066710a8ae218ae737bcdaa0cc56e10a970c2dd4a5d363bad966410124daf551f5d931a918eea12c2cd2d967c2e6f5d9656939e0abf4d5a79da2de62b538da114da67220a91c700e6a7568f48b0c57a98b3882aed0a86aee4a097552e6aa21956a373c97060f792e2c7: 
+        regencyqtr_com_ef783_2e2c7_1578101304_bef2641be4ee3952b6dbe794690512d5: ~
+    subject.commonName: 
+      regencyqtr.com: 
+        regencyqtr_com_cb279_61c5f_1567403504_b6c0b8c91d741405e774bc5c8c3f802b: ~
+        regencyqtr_com_e1b73_ed4ed_1572760545_52badab502ca6f87b474b6ca6d1807b5: ~
+        regencyqtr_com_ef783_2e2c7_1578101304_bef2641be4ee3952b6dbe794690512d5: ~
+uniques: 
+  certificate: 
+    friendly_name: 
+      Cert for “regencyqtr.com”: regencyqtr_com_cb279_61c5f_1567403504_b6c0b8c91d741405e774bc5c8c3f802b
+      Cert for “regencyqtr.com” 1564988075.0: regencyqtr_com_e1b73_ed4ed_1572760545_52badab502ca6f87b474b6ca6d1807b5
+      Cert for “regencyqtr.com” 1570328845.0: regencyqtr_com_ef783_2e2c7_1578101304_bef2641be4ee3952b6dbe794690512d5
+  key: 
+    friendly_name: 
+      Key for “regencyqtr.com”: ef783_2e2c7_d8a2b5dddce419cfc181caf089b0abe3
+      Key for “regencyqtr.com” 1559630996.0: cb279_61c5f_7f0b08a2e89b04102c730a7b60b14a9b
+      Key for “regencyqtr.com” 1564988075.0: e1b73_ed4ed_ba766e6c508470adb8639f13598186c5
+    modulus: 
+      cb279635dbbfdd3c4b4915deb2fa85007180b72c8831f1da400b31fab0c664a762497d0aff3452693878c7e7f7e030a104cfa8c45ebdba2e64263b5fd214bb45012439d15f39956ec809b63989c8662712074c0c415e550d63788722159eba4019bc6b542b2d03166c563531bb5ec76cbe0c11b047e7ec68454be2a221d568e4cf55750e32fc16b4a04f93c3c3fbcae10793910337384b8f45ee60999ced4fa15ea19cb7b1705d545dc3d45a84a9afa72e81657f0ad58b00692d85fde0de78b1005a4d8685105c0a2751fc9f6066c53d1f3947e79210aab80f441b7a2a69af682030f80083c6ea93dc0be4ec2f91892f4065d78f9e30741dc0846cdc25061c5f: cb279_61c5f_7f0b08a2e89b04102c730a7b60b14a9b
+      e1b73b3113eb6c3a6b549990ecab97331b0b5badcb41484fd1a236151147d3b7320acbe1e3b23bd70bea175fc382b9188af702987b2d85b3d23a01247316478ddd7f2193f1d6d7db51472329071d96a896e9d7e0ca014f73ceeb62a3c4ecfd54fdc2ba802c200b9456b5f75f30011e69fd27bc9e39017eaf339d1adbe0e30b77e868212151c0c5e1a741a2c793ffa09e6268761cb08c0d5f2fc0085b365d8deb9049d5a45ba5d8997f640e515a9b4a899ad4095de46a571377b11792fbff5b7293cdfd5dc5f9b7f873ad889dc5b7dd8c55872418149691ed3ed03caa0e618b45f8a8ad59ea68b15056422937988eeb055add4c6c43f3643693e5f0634dced4ed: e1b73_ed4ed_ba766e6c508470adb8639f13598186c5
+      ef78312d4f07cc0ebb663209b8e89cd904ae4e0242c75d8f57e6b844d970c16def1ecc82a66dd382b70dabfe5459452b27194e81a5e330e8fa5379fa97364323bcbbea8e97715829b56b700ab5829de8ad4711f7002fd28054ef83341c47f9de9d111375fa1636416a5d217fc44c6298f294d5706304658734583ccca02d67d67728ffff2ea1b863a28e842d8184077ebf375809f1a9e066710a8ae218ae737bcdaa0cc56e10a970c2dd4a5d363bad966410124daf551f5d931a918eea12c2cd2d967c2e6f5d9656939e0abf4d5a79da2de62b538da114da67220a91c700e6a7568f48b0c57a98b3882aed0a86aee4a097552e6aa21956a373c97060f792e2c7: ef783_2e2c7_d8a2b5dddce419cfc181caf089b0abe3
